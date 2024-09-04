@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Alteramos la caja predeterminado para incluir el padding y border*/
+}
+
+body, html {
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+}
+
+.background {
+    background-image: url('css/fondo1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.header {
+    background-color: #024826; 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.mensaje {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    max-width: 90%;
+    opacity: 0.5;
+    transition: opacity 0.5s ease-in-out;
+}
+
+/*Pa que floten*/
+.mensaje:hover {
+    opacity: 1;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 4px rgba(10, 10, 10, 0.6);
+}
+
+h4 {
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 4px rgba(39, 37, 37, 0.6);
+}
+
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer; /* para pasar el cursor y que cambie */
+    /*especifica cómo la velocidad de la animación cambia durante su ejecución*/
+    transition: background-color 0.3s ease, transform 0.2s ease; 
+}
+
+button:hover {
+    background-color: #66BB6A;
+    color: white;
+    transform: scale(1.1);
+}
+
+button:first-child {
+    background-color: #4CAF50; /* Botón para entrar */
+    color: rgb(220, 230, 224);
+}
+
+button:last-child {
+    background-color: #f44336; /* Botón para salir */
+    color: rgb(225, 217, 217);
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+    .header {
+        background-color: #033938; 
+        padding: 10px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 967px) {
+    .header {
+        background-color: #0d0b7a; 
+        padding: 15px;
+    }
+}
+
+@media (min-width: 968px) {
+    .header {
+        background-color: #0b7a48; 
+        padding: 15px;
+    } 
+}
