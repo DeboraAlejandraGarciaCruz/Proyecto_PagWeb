@@ -8,6 +8,6 @@ A continuación, se presenta una pagina web en HTML, CSS y JavaScript.
 - **Galeria de Plantas**: Se ofrece una galeria de diferentes tipos de plantas.
 - **Contacto**: Hay contacto para mas informacion sobre las plantas.
 
-# Autor
+## Autor
 
 Debora Alejandra Garcia Cruz. 
