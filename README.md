@@ -9,6 +9,4 @@ A continuación, se presenta una pagina web en HTML, CSS y JavaScript.
 - **Contacto**: Hay contacto para mas informacion sobre las plantas.
 # Autor
 
-Debora Alejandra Garcia Cruz
-3
-
+Debora Alejandra Garcia Cruz. 
