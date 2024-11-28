@@ -1,6 +1,6 @@
 # Pagina Web
 
-A continuación, se presenta una pagina web en HTML, CSS y JavaScript super.
+A continuación, se presenta una pagina web en HTML, CSS y JavaScript supe.
 
 ## Funciones
 
