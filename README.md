@@ -11,5 +11,4 @@ A continuación, se presenta una pagina web en HTML, CSS y JavaScript.
 
 Debora Alejandra Garcia Cruz
 3
-4
 
