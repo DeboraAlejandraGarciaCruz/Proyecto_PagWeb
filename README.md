@@ -11,4 +11,4 @@ A continuación, se presenta una pagina web en HTML, CSS y JavaScript.
 ## Autor
 
 Débora Alejandra García Cruz. 
-Dios siempre 
+Dios siempre está 
