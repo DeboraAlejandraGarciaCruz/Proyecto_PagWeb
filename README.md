@@ -10,4 +10,4 @@ A continuación, se presenta una pagina web en HTML, CSS y JavaScript.
 
 ## Autor
 
-Débora Alejandra Garcia Cruz. 
+Débora Alejandra García Cruz. 
